@@ -1,3 +1,4 @@
+# use any satellite image dataset....
 """
 EuroSAT Land Cover Analysis
 Author: Rudra 
